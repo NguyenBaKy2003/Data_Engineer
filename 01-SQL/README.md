@@ -29,4 +29,4 @@ By the end of this section, I should be able to:
 - Optimize SQL queries
 - Understand database indexes
 - Write SQL for ETL pipelines
-- Write SQL for Data Warehouse
+- Write SQL for Data WAREHOUSE
